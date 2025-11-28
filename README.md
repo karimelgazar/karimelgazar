@@ -1,4 +1,4 @@
-# 👋 I’m Karim Elgazar
+# Hi 👋..., I’m Karim Elgazar
 
 Founder and AI Engineer focused on building products that solve real problems and scale fast.
 
